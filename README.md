@@ -1,8 +1,6 @@
 # Fortnite Builds
 The largest Fortnite Builds Archive maintained by simplyblk. 
 
-## Want to help me cover storage and egress costs? Donate [here!](https://paypal.me/blksservers?country.x=US&locale.x=en_US)
-
 ## Usage & Other information.
 
 Credits: Everyone at [notsamiccs's Fortnite Builds](https://github.com/notsamicc/Fortnite-Builds), and [Crunnie.](https://github.com/Crunnie)
